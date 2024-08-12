@@ -1,0 +1,7 @@
+```{r}
+ggplot2::qplot(cut, data=ggplot2::diamonds)
+```
+
+```{r}
+Sys.time()
+```
