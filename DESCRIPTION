@@ -12,5 +12,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Imports: 
     ggplot2
+    rmarkdown
 URL: https://github.com/rparmm/diamonds
 BugReports: https://github.com/rparmm/diamonds/issues
